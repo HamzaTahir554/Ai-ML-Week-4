@@ -1,0 +1,42 @@
+
+Before Improvment
+======================================================================
+FINAL EVALUATION
+======================================================================
+K = 3
+Total Questions : 20
+Correct Answers : 5
+Wrong Answers   : 15
+Accuracy        : 25.00%
+
+After Improvment
+
+======================================================================
+FINAL EVALUATION
+======================================================================
+K=5
+Total Questions : 20
+Correct Answers : 4
+Wrong Answers   : 16
+Accuracy        : 20.00%
+
+
+RAG Architecture
+
+PDF
+↓
+Text Extraction
+↓
+Chunking
+↓
+Embeddings
+↓
+ChromaDB
+↓
+Retriever
+↓
+Relevant Context
+↓
+LLM
+↓
+Answer
